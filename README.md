@@ -48,7 +48,7 @@ CAMUS 프로젝트에서 생성한 AI모델에 대한 README입니다.
 
 ### 🔰 evaluation
 ****
-![eval](https://github.com/Camus-chat/ai-model/blob/readme-asset/eval.png)
+!([https://github.com/Camus-chat/ai-model/blob/readme-asset/eval.png](https://github.com/Camus-chat/ai-model/blob/main/readme-asset/eval.png))
 
 - 결과에 따라 90%의 정확도를 보이는 모델을 선정하였습니다.
 
